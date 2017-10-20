@@ -1,2 +1,2 @@
 # CounterReactApp
-First react app about conter
+First react app about counter
